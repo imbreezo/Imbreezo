@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,29&text=!%20ᗷᖇEEᘔY%20🎐&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20%7C%20Offensive%20Security&descSize=20&descAlignY=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,29&text=‧₊˚%20%ᗷᖇEEᘔY🎐&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20%7C%20Offensive%20Security&descSize=20&descAlignY=55&textBg=false"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=25&pause=1000&color=B15EFF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;Exploring+Low-Level+Programming;Aspiring+Exploit+Developer;Learning+Reverse+Engineering+Foundations;Future+Penetration+Tester" alt="Typing SVG" />
