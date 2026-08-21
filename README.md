@@ -26,7 +26,7 @@
 </table>
 </div>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xDRzEDsTYv&theme=vue&radius=10" alt="Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xariosh&theme=vue&radius=10" alt="Activity Graph" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
